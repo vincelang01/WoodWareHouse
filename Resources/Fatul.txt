@@ -1,0 +1,5 @@
+1	Retegragasztott	20000.5	12	m3
+2	Zsalu	50	6	m2
+3	Zsaludeszka	77952.8	101	m3
+4	Zsaludeszka_2m	48425.8	23	m3
+5	Zsaludeszka_3m	77952.8	99	m3
